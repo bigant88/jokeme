@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JokeMe.iml" filepath="$PROJECT_DIR$/JokeMe.iml" />
       <module fileurl="file://$PROJECT_DIR$/ahbottomnavigation/ahbottomnavigation.iml" filepath="$PROJECT_DIR$/ahbottomnavigation/ahbottomnavigation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" filepath="$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" />
     </modules>
   </component>
 </project>
