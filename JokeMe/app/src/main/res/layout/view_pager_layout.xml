@@ -14,7 +14,8 @@
 
     <android.support.v4.view.ViewPager
         android:id="@+id/view_pager"
-        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 

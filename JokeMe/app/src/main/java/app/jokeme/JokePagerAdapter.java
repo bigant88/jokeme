@@ -29,7 +29,6 @@ public class JokePagerAdapter extends PagerAdapter {
 
     @Override
     public Object instantiateItem(ViewGroup collection, int position) {
-        Log.i(TAG, "instantiateItem " + position);
         JokeModel jokeModel = mJokeModelList.get(position);
         LayoutInflater inflater = LayoutInflater.from(mContext);
         ViewGroup layout = (ViewGroup) inflater.inflate(R.layout.joke_item, collection, false);
@@ -52,6 +51,7 @@ public class JokePagerAdapter extends PagerAdapter {
 
     @Override
     public int getCount() {
+        if(mJokeModelList == null ) return 0;
         return mJokeModelList.size();
     }
 
