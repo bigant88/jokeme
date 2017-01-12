@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">JokeMe</string>
+    <string name="app_name">Jokes and Quizzes</string>
     <string name="action_settings">Settings</string>
     <string name="jokes">Jokes</string>
     <string name="quizzes">Quizzes</string>

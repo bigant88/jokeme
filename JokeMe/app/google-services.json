@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "775930592353",
+    "project_id": "jokeapp-f8a2b"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775930592353:android:1fbf7e29e79ceccf",
+        "android_client_info": {
+          "package_name": "app.jokeme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTiDvHPrDcAzJcUzF5LvcgsOWicl5u4aQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-82420226-4"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
